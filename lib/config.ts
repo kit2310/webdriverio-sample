@@ -1,6 +1,7 @@
 
 module.exports = {
-    browser: 'chrome',
+    browserChrome: 'chrome',
+    browserFirefox: 'firefox',
     baseURL: 'http://zero.webappsecurity.com/index.html',
     logLevel: 'info',
     maxInstance: 5,
